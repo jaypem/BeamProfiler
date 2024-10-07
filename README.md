@@ -1,8 +1,13 @@
-# BeamProfiler pd1©
+# BeamProfiler pd©
 
 The BeamProfiler pd1© allows to measure laser beams with diameters up to 4 mm. It is controlled by a Raspberry Pi, a small single-board computer with an adapted 7” touch display.
 
 For more information see also: `Manual BeamProfiler pd1.pdf`
+
+©Dirk Müller, JanPhilipp Praetorius
+
+<img src="./images/BeamSplitter_RaspberryPi.png" alt="BeamSplitter_RaspberryPi" width="45%" style="display: inline-block; margin-right: 5%;" />
+<img src="./images/BeamProfiler_display.png" alt="BeamProfiler_display" width="45%" style="display: inline-block;" />
 
 ## Assembly of the Raspberri Pi
 
@@ -107,4 +112,4 @@ and add the following line on the top of the file:
 
 `„lcd_rotate=2“`
 
-15. Save the file and test the shell script ***„BeamProfiler.sh“** *on the Desktop
+15. Save the file and test the shell script **„BeamProfiler.sh“** on the Desktop
