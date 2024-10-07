@@ -12,8 +12,8 @@ For more information see also: `BeamProfiler-pd1_manual.pdf`
 
 ©Dirk Müller, JanPhilipp Praetorius
 
-<img src="./images/BeamSplitter_RaspberryPi.png" alt="BeamSplitter_RaspberryPi" width="45%" style="display: inline-block; margin-right: 5%;" />
-<img src="./images/BeamProfiler_display.png" alt="BeamProfiler_display" width="45%" style="display: inline-block;" />
+<img src="./images/BeamSplitter_RaspberryPi.png" alt="BeamSplitter_RaspberryPi" width="35%" style="display: inline-block; margin-right: 5%;" />
+<img src="./images/BeamProfiler_display.png" alt="BeamProfiler_display" width="40%" style="display: inline-block;" />
 
 ## Assembly of the Raspberri Pi
 
