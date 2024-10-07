@@ -2,7 +2,13 @@
 
 The BeamProfiler pd1© allows to measure laser beams with diameters up to 4 mm. It is controlled by a Raspberry Pi, a small single-board computer with an adapted 7” touch display.
 
-For more information see also: `Manual BeamProfiler pd1.pdf`
+| Camera parameter           | Laser beam                | BeamProfiler results              |
+| -------------------------- | ------------------------- | --------------------------------- |
+| Sensor Size: 5,7 x 4,28 mm | Beam diameter: up to 4 mm | Beam diameter $ \frac{1}{e^2} $ |
+| Pixel: 2592 x 1944         | Wavelength: 350 – 950 nm | Width and height                  |
+| Pixel Size: 2,2 x 2,2 µm  |                           | Image with scale                  |
+
+For more information see also: `BeamProfiler-pd1_manual.pdf`
 
 ©Dirk Müller, JanPhilipp Praetorius
 
